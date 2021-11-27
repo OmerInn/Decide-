@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/erdog/OneDrive/Masa\xFCst\xFC/recycleline-main/Assets/Scenes/SampleScene.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
